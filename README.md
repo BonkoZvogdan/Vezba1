@@ -1,1 +1,1 @@
-# Vezba1
+# Vezba1 neka izmena
